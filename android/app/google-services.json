@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "954960978802",
+    "project_id": "integra3-49368",
+    "storage_bucket": "integra3-49368.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954960978802:android:26377b99218d302eb273eb",
+        "android_client_info": {
+          "package_name": "com.mycompany.integrador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954960978802-v43qof49kbi80m45se5ss45s28cnn584.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.integrador",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "954960978802-3vrr50mpkv4qimdksdphqa5r9dkv0i1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEJC5nXRzw1IGSq8j4m5wtLKi5qB-Eh8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954960978802-3vrr50mpkv4qimdksdphqa5r9dkv0i1f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "954960978802-056l0lce3vqc5gb2qur1c9an0okf4ghn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.integrador"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
