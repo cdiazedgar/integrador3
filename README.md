@@ -1,2 +1,5 @@
-# integrador3
-Proyecto integrador etapa 3, Soluciones de Programación Móvil
+# Integrador
+
+Proyecto para la etapa 3 del curso Soluciones de programación movil.
+
+Aplicación que registra citas y almacena la información en Firebase
